@@ -11,7 +11,7 @@ class Payroll:
 
     def __init__(self,root):
         self.root = root
-        self.root.title("Система клиентских платежей")
+        self.root.title("Система платежей")
         self.root.geometry("1350x600+0+0")
         self.root.configure(background='gainsboro')
 
